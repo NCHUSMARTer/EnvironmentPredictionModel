@@ -5,3 +5,5 @@
 環境預測模型 https://drive.google.com/drive/folders/1eXSRMzkyJ5ro_pI_VY-l8OjAomwmEZfe?usp=sharing  
 俯視影像個體辨識 https://drive.google.com/drive/folders/1rq1yYDzirSp68glfjqJ7kvsdt92i8nEj?usp=sharing  
 側視影像個體辨識 https://drive.google.com/drive/folders/12e3VZZ2XfNCrkLc0sLtMEQiMhZRroHWD?usp=sharing  
+
+[水稻產量預測模型]([https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md](https://drive.google.com/file/d/13EAhtqxV-1TtrFIP8sYVdRGCN5pyLhUE/view?usp=sharing)).
